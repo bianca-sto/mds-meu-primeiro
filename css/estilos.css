@@ -1,0 +1,40 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/000/105/252/small/beautiful-blurred-vector-background.jpg");
+   background-size: 800px ;
+ font-family: arial;
+   height: 100vh;
+ }
+ 
+ .menu{
+   background-color: violet;
+  
+ }
+ a { 
+   text-decoration:none; 
+   color: teal; 
+ }
+ 
+ a:hover {
+   text-decoration:underline;
+ }
+ .menu ul { 
+   display: flex; 
+   justify-content: space-around;
+ }
+ .menu li {
+   list-style: none; 
+ }
+ 
+ .site-title {
+   color: red;
+   text-align: center;
+   font-title: absolute;
+ }
+ .site-subtitle { 
+   color: red;
+   text-align: center;
+   font-style: italic; 
+ }
+ 
+  
+ 
